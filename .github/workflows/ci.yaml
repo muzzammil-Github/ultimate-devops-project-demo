@@ -75,3 +75,4 @@ jobs:
           git add kubernetes/productcatalog/deploy.yaml
           git commit -m "Update product-catalog image in k8s deployment"
           git push
+          
